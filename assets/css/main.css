@@ -3376,7 +3376,7 @@
 		}
 
 		.banner.style1.fullscreen {
-			min-height: 100vh;
+			min-height: 90vh;
 		}
 
 			@media screen and (orientation: portrait) {
